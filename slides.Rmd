@@ -1,0 +1,19 @@
+---
+title: "Wave-Based Acoustics Simulations"
+subtitle: "Auditory and tactile interactions, ??/??/2026"
+author: Joy Spuri Forotti, 157208@spes.uniud.it
+output: 
+  beamer_presentation:
+    includes:
+      in_header: style.tex
+header-includes:
+- \titlegraphic{\includegraphics[width=5cm]{media/logo_uniud.jpg}}
+---
+
+```{r setup, include=FALSE}
+library(kableExtra)
+```
+
+## TODO
+
+`TODO`
